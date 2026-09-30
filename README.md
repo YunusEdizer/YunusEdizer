@@ -29,6 +29,8 @@
 |---|---|---|
 | **[MotorumBurada](https://motorumburada.com)** | Motosiklet alım-satım ve servis platformu; web, iOS ve Android'de canlı ([App Store](https://apps.apple.com/tr/app/motorumburada/id6791850764)) | Next.js · React Native · Supabase |
 | **[DeepPsy](https://deeppsy.eurotechbilisim.com.tr)** | Psikiyatri için multimodal yapay zeka karar destek sistemi | Python · PyTorch |
+| **Sanal Parsel** | Türkiye haritasını 400 m²'lik sanal parsellere bölen satış platformu; eşit alanlı projeksiyon, vektör karo servisi, süreli sepet kilidi, doğrulanabilir sertifika, yönetim paneli · 245 test | .NET 8 · PostGIS · Next.js · MapLibre |
+| **ParkPusula** | İstanbul için otopark bulma uygulaması; İSPARK doluluk verisi ve 1.300+ otopark tek haritada · yayına hazırlanıyor | Expo · Next.js · Supabase/PostGIS · Turborepo |
 | **[SmartScheduler](https://github.com/YunusEdizer/smartscheduler-ai)** | Yapay zeka destekli ders programı oluşturucu; Scrum ile 4 sprint, 64 test | .NET 9 · Next.js · PostgreSQL |
 | **[DeepPark](https://github.com/YunusEdizer/Deep_Park_Final)** | Farklı hava koşullarında otopark doluluk tespiti; 8 CNN mimarisinin karşılaştırması | PyTorch · PKLot |
 | **[NoteBlog](https://github.com/YunusEdizer/NoteBlogProject)** | Üyelik sistemi ve yönetim paneli olan blog platformu ([canlı demo](https://noteblog-ctgpcke8hpcmbnf4.germanywestcentral-01.azurewebsites.net)) | Node.js · MongoDB · Azure |
